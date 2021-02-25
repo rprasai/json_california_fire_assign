@@ -1,0 +1,6 @@
+Use the files below to compare the fires that have been burning in California between Sept 1-13 and Sept 14 - 20. 
+This file contains information about the latitude and longitude, and the brightness of each fire. 
+Using what you have learnt in processing a JSON files and mapping, make a map that shows the fires. 
+You will need separate programs to represent each JSON file. 
+One file is from 9-1-20 to 9-13-20 and the other is from 9-14-20 to 9-20-20. 
+We are only interested in fires that have a brightness factor above 450.
